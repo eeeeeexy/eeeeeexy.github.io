@@ -1,25 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Fellow in <a href="https://nus.edu.sg/" target="_blank">NUS</a>. yuan_xie@nus.edu.sg
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: xieyuan_1.jpeg
+  image_circular: true # crops the image to make it circular
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Yuan Xie (谢缘) is a postdoctoral research fellow at the School of Computing, National University of Singapore. She completed her Ph.D. in Computer Science at the Hunan University (HNU) in 2024, advised by Prof. Keqin Li and Prof. Kenli Li. She has been a visiting Ph.D student in NUS, advised by Prof. Roger Zimmermann.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Xie’s research focuses on urban computing and spatial crowdsourcing, with specific interests in trajectory classification, domain adaptation, and task assignment in spatial crowdsourcing. Her works have been published in top-tier conferences and journals, including ICDE, ACM MM, INS, and TKDE.
