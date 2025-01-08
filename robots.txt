@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://eeeeeexy.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://eeeeeexy.github.io/sitemap.xml
