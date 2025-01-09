@@ -4,15 +4,14 @@
     "label": "Research Fellow",
     "image": "",
     "email": "yuan_xie@nus.edu.sg",
-    "phone": "(65) 80381662",
-    "url": "https://xieyuan.github.io/al-folio/",
-    "summary": "Research Fellow in NUS",
+    "url": "https://yuanxie.me/",
+    "summary": "Research interests: Spatial Crowdsourcing, Domain Adaptation, and Trajectory Classification.",
     "location": {
       "address": "Clementi West Street 1, Block 602",
       "postalCode": "120602",
       "city": "Singapore",
       "countryCode": "SG",
-      "region": "California"
+      "region": "Singapore"
     },
     "profiles": [
       {
@@ -28,22 +27,22 @@
       "position": "Research Fellow",
       "url": "https://example.com",
       "startDate": "2025-01",
-      "endDate": "Present",
-      "summary": "Domain Adaptation.",
-      "highlights": [
-        "Relativity"
-      ]
+      "endDate": "Present"
+      // "summary": "Domain Adaptation."
+      // "highlights": [
+      //   "Relativity"
+      // ]
     },
     {
       "name": "Schoole of Computing, National University of Singapore",
       "position": "Research Assistant",
       "url": "https://example.com",
       "startDate": "2023-12",
-      "endDate": "2024-12",
-      "summary": "Trajectory Classification.",
-      "highlights": [
-        "Relativity"
-      ]
+      "endDate": "2024-12"
+      // "summary": "Trajectory Classification.",
+      // "highlights": [
+      //   "Relativity"
+      // ]
     }
   ],
   "education": [
@@ -84,17 +83,17 @@
       // "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
     },
     {
+      "name": "Trajectory-aware Task Coalition Assignment in Spatial Crowdsourcing",
+      "publisher": "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+      "releaseDate": "2024"
+      // "url": "10.1109/TKDE.2023.3336642"
+      // "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+    },
+    {
       "name": "Trajectory-aware Task Coalition Assignment in Spatial Crowdsourcing (Extended Abstract)",
       "publisher": "IEEE International Conference on Data Engineering (ICDE)",
       "releaseDate": "2024"
       // "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      // "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    },
-    {
-      "name": "Trajectory-aware Task Coalition Assignment in Spatial Crowdsourcing",
-      "publisher": "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
-      "releaseDate": "2023"
-      // "url": "10.1109/TKDE.2023.3336642"
       // "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     },
     {
